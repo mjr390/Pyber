@@ -190,7 +190,7 @@ plt.show('RidesCity.png')
 ```
 
 
-![png]RidesCity.png)
+![png](RidesCity.png)
 
 
 # Total Drivers by City Type
